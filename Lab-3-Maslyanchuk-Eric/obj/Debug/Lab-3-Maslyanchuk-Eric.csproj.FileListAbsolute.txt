@@ -1,0 +1,15 @@
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\bin\Debug\UnitedStates.mdf
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\bin\Debug\UnitedStates_log.ldf
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\bin\Debug\Lab-3-Maslyanchuk-Eric.exe.config
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\bin\Debug\Lab-3-Maslyanchuk-Eric.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\bin\Debug\Lab-3-Maslyanchuk-Eric.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab-3-Maslyanchuk-Eric.csproj.AssemblyReference.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab_3_Maslyanchuk_Eric.Main.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab_3_Maslyanchuk_Eric.Properties.Resources.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab_3_Maslyanchuk_Eric.StateForm.resources
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab-3-Maslyanchuk-Eric.csproj.GenerateResource.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab-3-Maslyanchuk-Eric.csproj.CoreCompileInputs.cache
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab-3-Maslyanchuk-Eric.exe
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab-3-Maslyanchuk-Eric.pdb
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab-3-Maslyanchuk-Eric.exe.config
+C:\Users\masly\OneDrive\Desktop\School\Semester 8\CPT 206\Labs\Lab-3-Maslyanchuk-Eric\obj\Debug\Lab_3_Maslyanchuk_Eric.StateDetailForm.resources
