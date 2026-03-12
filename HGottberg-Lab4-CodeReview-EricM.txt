@@ -1,0 +1,23 @@
+Heinrich Gottberg Code Review of Eric M's Lab 4
+
+This lab was the addition of the 'State Class Library' 
+to the State Population App for Lab 3.
+
+This code review will be documenting three things:
+
+1. Does the State Population App have a Class Library?
+
+   a. Yes, while it is not called 'State Library' the program includes a
+      'State' class that contains constructors to create State objects.
+
+2. Is the Class Library utilized in the program correctly?
+
+   a. Yes, the State objects are called and used in the program.
+
+3. Does the Class Library have all the correct variables/data values?
+
+   a. Yes, everything is in order and all values are accounted for.
+
+Overall Review
+	
+	This is a really solid program. Great job including everything.
