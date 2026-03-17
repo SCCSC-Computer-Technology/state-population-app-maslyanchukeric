@@ -1,0 +1,8 @@
+Is the code generally readable and well-documented?
+- The code uses comments to provide explanations for each line of code and indentation to make the code easy to read.
+Did you find any software defects?
+- No, I did not run into any errors or defects when running this program. Good job!
+What was one way that their solution differed from yours?
+- Eric's code uses individual if statements to determine each value for the state, while mine did not and instead used one if statement for the rows.
+Do you have any other constructive comments for the author?
+- I don't really have anything else to say about this code, it works really well! Good job!
