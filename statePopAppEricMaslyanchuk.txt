@@ -1,0 +1,11 @@
+Q1 - Is the code generally readable and well-documented?
+A1 – Yes, the code is generally readable and pretty easy to follow. It does have more comments than some code I have seen, especially with explaining what the methods are doing and the database parts, so that helped. I think it is documented decent overall. Other than that, the code structure made sense to me and I could follow along without too much trouble.
+
+Q2 – Did you find any software defects?
+A2- I did not see any huge software defects just from looking through the code or during testing the program. One thing I noticed is it writes text to a file and then closes it manually, so if something goes wrong before it closes, that could maybe be a problem. Also if the database file or connection is not set up right on someone’s machine, I could see that causing run issues, but that feels more like setup/environment than the actual code and that is something I experienced before with someone else code.
+
+Q3 - What was one way that their solution differed from yours?
+A3 – Theirs felt a little more organized than mine did when I did the StateDB lab.
+
+Q4 – Do you have any other constructive comments for the author?
+A4 – I thought it was laid out pretty well and was not too hard to read. It looked clean overall.
