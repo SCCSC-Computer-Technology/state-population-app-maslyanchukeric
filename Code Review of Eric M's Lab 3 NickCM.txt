@@ -1,0 +1,33 @@
+**********Code Review of Eric M's Lab 3***********
+*                 by NickCM                      *
+*                                                *
+* Is the code generally readable and             *
+* well-documented?                               *
+*                                                *
+* Code is organized and very readable.           *
+* There are comments for everything in the code  *
+*                                                *
+*                                                *
+* Did you find any software defects?             *
+*                                                *
+* None found.                                    *
+*                                                *
+*                                                *
+* What was one way that their solution           *
+* differed from yours?                           *
+*                                                *
+* Eric used a state class and database manager   *
+* class in the project instead of in a 	         *
+* Library. I used a Class Library in my solution,*
+* but overall our solutions were similar.        *
+*                                                *
+*                                                *
+* Do you have any other constructive             *
+* comments for the author?                       *
+*                                                *
+* No comments really, the program works          *
+* and looks great!                               *
+* The state class and database manager could go  *
+* in a library i guess.                          *
+*                                                *
+**************************************************

@@ -1,0 +1,32 @@
+**********Code Review of Eric M's Lab 4***********
+*                 by NickCM                      *
+*                                                *
+* Is the code generally readable and             *
+* well-documented?                               *
+*                                                *
+* Code is the same as lab 3 so still good.       *
+* There isn't a class library, but there is a    *
+* state and database manager class.              *
+*                                                *
+* Did you find any software defects?             *
+*                                                *
+* The state class is supposed to be in a class   *
+* library.                                       *
+*                                                *
+* What was one way that their solution           *
+* differed from yours?                           *
+*                                                *
+* Eric used a state class and database manager   *
+* class in the project instead of in a 	         *
+* Library. I used a Class Library in my solution,*
+* but overall our solutions were similar.        *
+*                                                *
+*                                                *
+* Do you have any other constructive             *
+* comments for the author?                       *
+*                                                *
+* The actual state and database manager class    *
+* are good and work, but the assignment says     *
+* there should be a class library so you could   *
+* just put those classes into a library.         *
+**************************************************
